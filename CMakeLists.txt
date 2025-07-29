@@ -8,3 +8,4 @@ function(ihx_to_hex bin)
 endfunction(ihx_to_hex)
 
 add_subdirectory(led-blink)
+add_subdirectory(led-blink-int)
