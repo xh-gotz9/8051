@@ -13,3 +13,4 @@ add_subdirectory(led-blink-by-timer)
 
 add_subdirectory(seg)
 add_subdirectory(seg-dynamic)
+add_subdirectory(seg-dynamic-by-timer)
