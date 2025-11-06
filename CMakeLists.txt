@@ -9,3 +9,4 @@ endfunction(ihx_to_hex)
 
 add_subdirectory(led-blink)
 add_subdirectory(led-blink-int)
+add_subdirectory(led-blink-by-timer)
